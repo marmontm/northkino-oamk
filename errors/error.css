@@ -1,0 +1,64 @@
+.contents
+{
+    padding-top: 0px;
+}
+
+.messagebox
+{
+    margin-top: 40px;
+    width: 75%;
+    font-family: "Gotham Medium", Arial, sans-serif;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -25%);
+}
+
+.messagebox .image
+{
+    font-size: 48pt;
+}
+
+.messagebox .title
+{
+    font-size: 20pt;
+    margin-bottom: 8pt;
+}
+
+.messagebox .message
+{
+    font-size: 14pt;
+    color: #777777;
+}
+
+.messagebox .button
+{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    max-width: 200px;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    color: #ffa300;
+    border-style: solid;
+    border-color: #ffa300;
+    border-width: 2pt;
+    border-radius: 50px;
+    cursor: pointer;
+    transition-duration: 0.15s;
+}
+
+.messagebox .button:hover
+{
+    background-color: #ffa300;
+    color: #ffffff;
+    transition-duration: 0.15s;
+}
+
+.messagebox .button:active
+{
+    background-color: #d28600;
+    color: #ffffff;
+    border-color: #d28600;
+    transition-duration: 0.15s;
+}
