@@ -10,11 +10,11 @@ This web page was intended for a computer science project which is related to th
 The subject
 -------------
 
-The main goal of this project was to build a website for NorthKino, a fictive company which have theaters pretty much everywhere in Finland.
+The main goal of this project was to build a **website for NorthKino**, a fictive company which have theaters pretty much everywhere in Finland.
 
-Then, to make the link with the course, we had to take advantage of animations to make the website more modern and user-friendly.
+Then, to make the link with the course, we had to **take advantage of animations** to make the website more modern and user-friendly.
 
-But according to modern rules in web technologies, the teacher restricted the way to build animations with only CSS and Javascript (no Flash).
+But according to modern rules in web technologies, the teacher restricted the way to build animations with **only CSS and Javascript** (no Flash).
 
 The website also had to have a booking system to order tickets online. But for all the features, it doesn't had to use any databases or other server services (due to the short time to realize the project). The webpages had to be written as "fixed" texts and images to simplify the development but just to show the design and animations of the global website.
 
